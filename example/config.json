@@ -9,8 +9,8 @@
         "amd64"
     ],
     "boot": "auto",
-    "hassio_api": true,
-    "hassio_role": "default",
+    "supervisor_api": true,
+    "supervisor_role": "default",
     "options": {
         "log_level": "info"
     },
