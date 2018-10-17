@@ -3,7 +3,7 @@
     "version": "dev",
     "slug": "example",
     "description": "Example CSM add-on",
-    "url": "",
+    "url": "https://github.com/csmcloud/csm-addons/tree/master/example",
     "startup": "application",
     "arch": [
         "amd64"
