@@ -8,7 +8,7 @@
   "arch": [
     "amd64"
   ],
-  "image": "kstaniek/converter"
+  "image": "kstaniek/converter",
   "boot": "auto",
   "supervisor_api": true,
   "csm_role": "default",
