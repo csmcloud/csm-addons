@@ -5,6 +5,7 @@
   "description": "A secure and fast FTP server for CSM",
   "url": "https://github.com/csmcloud/csm-addons/tree/master/ftp",
   "startup": "services",
+  "build": "false",
   "arch": [
     "amd64"
   ],
